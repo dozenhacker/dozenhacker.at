@@ -7,7 +7,7 @@
     "user_comment": "",
     "icon": "https://dozenhacker.at/media/website/SiteLogoRed.svg",
     "author": {
-        "name": "J.Hotter"
+        "name": "Jörg Hotter"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "summary": "test. the template is missing on cloudflare",
             "content_html": "<p>test. the template is missing on cloudflare</p>",
             "author": {
-                "name": "J.Hotter"
+                "name": "Jörg Hotter"
             },
             "tags": [
             ],
@@ -31,7 +31,7 @@
             "summary": "blabla updated for secont sync",
             "content_html": "<p>blabla</p>\n<p>updated for secont sync</p>",
             "author": {
-                "name": "J.Hotter"
+                "name": "Jörg Hotter"
             },
             "tags": [
             ],
