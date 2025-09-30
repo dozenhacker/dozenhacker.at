@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>dozenhackerAT</title>
+    <link href="https://dozenhacker.at/feed.xml" rel="self" />
+    <link href="https://dozenhacker.at" />
+    <updated>2025-09-29T23:22:04+02:00</updated>
+    <author>
+        <name>J.Hotter</name>
+    </author>
+    <id>https://dozenhacker.at</id>
+
+    <entry>
+        <title>second post</title>
+        <author>
+            <name>J.Hotter</name>
+        </author>
+        <link href="https://dozenhacker.at/second-post/"/>
+        <id>https://dozenhacker.at/second-post/</id>
+
+        <updated>2025-09-29T23:22:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test. the template is missing on cloudflare
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test. the template is missing on cloudflare</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>my first test</title>
+        <author>
+            <name>J.Hotter</name>
+        </author>
+        <link href="https://dozenhacker.at/my-first-test/"/>
+        <id>https://dozenhacker.at/my-first-test/</id>
+
+        <updated>2025-09-29T21:50:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    blabla updated for secont sync
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blabla</p>
+<p>updated for secont sync</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
