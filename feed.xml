@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>dozenhackerAT</title>
-    <link href="https://dozenhacker.at/feed.xml" rel="self" />
-    <link href="https://dozenhacker.at" />
+    <link href="https://www.dozenhacker.at/feed.xml" rel="self" />
+    <link href="https://www.dozenhacker.at" />
     <updated>2025-09-29T23:22:04+02:00</updated>
     <author>
         <name>J.Hotter</name>
     </author>
-    <id>https://dozenhacker.at</id>
+    <id>https://www.dozenhacker.at</id>
 
     <entry>
         <title>second post</title>
         <author>
             <name>J.Hotter</name>
         </author>
-        <link href="https://dozenhacker.at/second-post/"/>
-        <id>https://dozenhacker.at/second-post/</id>
+        <link href="https://www.dozenhacker.at/second-post/"/>
+        <id>https://www.dozenhacker.at/second-post/</id>
 
         <updated>2025-09-29T23:22:04+02:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>J.Hotter</name>
         </author>
-        <link href="https://dozenhacker.at/my-first-test/"/>
-        <id>https://dozenhacker.at/my-first-test/</id>
+        <link href="https://www.dozenhacker.at/my-first-test/"/>
+        <id>https://www.dozenhacker.at/my-first-test/</id>
 
         <updated>2025-09-29T21:50:31+02:00</updated>
             <summary>
